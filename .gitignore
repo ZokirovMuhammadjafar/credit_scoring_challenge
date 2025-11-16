@@ -1,4 +1,5 @@
 data/
+test/
 merge/
 src/catboost_info
 merge/merged_x.csv
